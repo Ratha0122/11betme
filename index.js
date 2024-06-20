@@ -5,9 +5,9 @@ document.getElementsByClassName('header')[0].innerHTML = `
             <div class=" container mx-auto">
                 <div class="flex justify-between items-center ">      
                     <div class="flex justify-center gap-4 items-center text-[14px] font-medium">
-                        <div classs="logo">
+                        <a href="./index.html" classs="logo">
                             <img src="./images/logo.png" alt="" class="w-[200px]">
-                        </div>
+                        </a>
                         <ul class="hidden md:flex gap-4 flex-wrap">
                             <li><a href="./index.html" class="text-white hover:text-gray-500 duration-700">11BET</a></li>
                             <li><a href="./dang-ky.html" class="text-white hover:text-gray-500 duration-700">ĐĂNG KÝ</a></li>
