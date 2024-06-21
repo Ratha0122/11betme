@@ -61,6 +61,7 @@ document.getElementsByClassName('footer')[0].innerHTML = `
                         <div class="mt-4">
                             <span class=" leading-relaxed">11bet là một trong những địa chỉ giải trí được rất nhiều người yêu thích. Lịch sử 11bet có mặt trên thị trường từ khá lâu, bắt đầu hoạt động từ 2011.</span>
                         </div>
+                        <img src="./images/logo.png" class="p-4">
                     </div>
                     <div class="">
                         <div class=" font-bold">
@@ -82,7 +83,7 @@ document.getElementsByClassName('footer')[0].innerHTML = `
             <div class=" container mx-auto">
                 <div class="text-center">
                     <span>CHÍNH SÁCH BẢO MẬT</span><br>
-                    <span>Copyright 2024 © cuoctai11bet.news</span>
+                    <span>Copyright 2024 © 11bet.news</span>
                 </div>
                 
             </div>
